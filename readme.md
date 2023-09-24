@@ -29,6 +29,15 @@ The above example retrieves product data directly via the web browser, next we w
 
 The example will build on the finished example from **Lab 1** whiich hosted a static website. The example is included in this repository, download it and open in VS Code.
 
+To run the example, open a VS code terminal, then:
+
+```bash
+npm install
+npm run start
+```
+
+
+
 
 
 1. Open `script.js` in the `public/js` folder. Remember this JavaScript executes in the browser when the public site is loaded.
